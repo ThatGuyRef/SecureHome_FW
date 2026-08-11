@@ -1,0 +1,16 @@
+# Rahasia perangkat - JANGAN pernah di-commit
+**/include/rahasia.h
+**/rahasia.h
+.env
+
+# PlatformIO
+.pio/
+.pioenvs/
+.piolibdeps/
+*.bin
+*.elf
+*.hex
+
+# Editor
+.vscode/
+.idea/
